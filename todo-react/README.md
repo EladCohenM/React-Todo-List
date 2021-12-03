@@ -1,2 +1,3 @@
-#React Todo List
-my firsts project with React
+# React Todo List
+
+my first React project
